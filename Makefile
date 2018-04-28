@@ -3,3 +3,6 @@ test:
 
 cover:
 	ginkgo -cover
+
+install:
+	dep ensure
